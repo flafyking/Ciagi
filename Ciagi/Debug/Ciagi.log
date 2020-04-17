@@ -1,0 +1,5 @@
+﻿  Ciagi.cpp
+C:\Users\FlafyKing\source\repos\Ciagi\Ciagi.cpp(16,32): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\FlafyKing\source\repos\Ciagi\Ciagi.cpp(16,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\FlafyKing\source\repos\Ciagi\Ciagi.cpp(30,27): warning C4018: '<': signed/unsigned mismatch
+  Ciagi.vcxproj -> C:\Users\FlafyKing\source\repos\Ciagi\Debug\Ciagi.exe
